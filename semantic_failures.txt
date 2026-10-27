@@ -1,0 +1,2 @@
+2026-10-15 08:54:31 | pair 35 | func1 | CALL_FAILED | label=1 | model=qwen7b-8k | reason: request timed out (long function / slow CPU) | raw: '调用失败：Request timed out.' | code: "destroy_one_secret (gpointer data)\n{\n \tchar *secret = (char *) data;\n \n \t/* Don'"
+2026-10-15 08:54:31 | pair 35 | func2 | CALL_FAILED | label=0 | model=qwen7b-8k | reason: request timed out (long function / slow CPU) | raw: '调用失败：Request timed out.' | code: "destroy_one_secret (gpointer data)\n{\n \tchar *secret = (char *) data;\n \n \t/* Don'"
